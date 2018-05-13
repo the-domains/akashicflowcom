@@ -59,7 +59,6 @@ content:
         by NASA HDEV cameras aboard the International Space Station. Watch the
         Earth roll Captured by HDEV cameras on board the International Space
         Station.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=RtU_mdL2vBM&feature=applinks'
