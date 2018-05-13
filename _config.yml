@@ -1,0 +1,26 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.3566513687837869
+  lightness: 0.4831749920267612
+  saturation: 0.6452103576157242
+  rhythmicContrast: 0.1364653492346406
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: akashicflow.com
+layout_spectrum: 0.5298904834780842
+typography_spectrum: 0.7185394279658794
+content: []
+github: true
+url: 'https://thegrid.ai/akashicflow/'
+title: Let's Make this Happen!
+description: ''
