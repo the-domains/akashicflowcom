@@ -16,7 +16,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: akashicflow.io
+name: 'https://akashicflow.io'
 layout_spectrum: 0.5298904834780842
 typography_spectrum: 0.7185394279658794
 content:
@@ -136,3 +136,5 @@ title: Let's Make this Happen!
 description: We are the shit!
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5affa596-bc91-40f3-afcb-c72025fef036.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/52e285a6-5440-49be-a85d-2600eb539365.png
